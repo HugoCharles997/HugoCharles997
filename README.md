@@ -2,19 +2,16 @@
 <h1 align="center">Hi there, and welcome 😎</h1>
 </div>
 
+<br>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Lopx9eUi34rbq/giphy.gif" width="400px"/>
 </div>
-
-<br>
-
 <div align="center">
-  <h2>I'm a Web developer, currently in apprenticeship.</h2>
+  <h3>I'm a Web developer, currently in apprenticeship.</h3>
+  <br>
   <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="600" height="300"/>
 </div>
-
-<br>
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/hugo-charles-b79123243/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
