@@ -1,5 +1,5 @@
 <div font-size="400" width="300">
-<p align="center" font-size="400" width="300">Hi there, and welcome 😎</p>
+<h1 align="center" font-size="400" width="300">Hi there, and welcome 😎</h1>
 </div>
 
 <div id="header" align="center">
