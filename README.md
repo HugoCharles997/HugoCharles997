@@ -25,6 +25,9 @@
 <br>
 <br>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 <!--
 **HugoCharles997/HugoCharles997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
