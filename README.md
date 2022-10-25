@@ -1,10 +1,14 @@
+<div width="400">
+<p align="center">Hi there, and welcome 😎</p>
+</div>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Lopx9eUi34rbq/giphy.gif" width="400px"/>
 </div>
 
 <br>
 
-<p align="center">Hi there, and welcome 😎</p>
+
 
 <br>
 
