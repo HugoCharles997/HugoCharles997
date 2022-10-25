@@ -26,7 +26,7 @@
 <br>
 
 <div align="center">
-  <p>Web developer, currently in apprenticeship</p>
+  <p>I'm a Web developer, currently in apprenticeship.</p>
   <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="600" height="300"/>
 </div>
 
