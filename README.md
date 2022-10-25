@@ -10,7 +10,16 @@
 
 
 
+<br
+
+
 <br>
+<br>
+
+<div align="center">
+  <p>I'm a Web developer, currently in apprenticeship.</p>
+  <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="600" height="300"/>
+</div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/hugo-charles-b79123243/" target="_blank">
@@ -24,16 +33,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=HugoCharles997&style=flat-square&color=blue" alt=""/>
   </div>
-
-
-<br>
-<br>
-
-<div align="center">
-  <p>I'm a Web developer, currently in apprenticeship.</p>
-  <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="600" height="300"/>
-</div>
-
 <br>
 
 ---
