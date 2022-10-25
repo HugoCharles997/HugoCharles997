@@ -9,9 +9,11 @@
 <br>
 
 <div align="center">
-  <p>I'm a Web developer, currently in apprenticeship.</p>
+  <h2>I'm a Web developer, currently in apprenticeship.</h2>
   <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="600" height="300"/>
 </div>
+
+<br>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/hugo-charles-b79123243/" target="_blank">
