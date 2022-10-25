@@ -2,6 +2,12 @@
   <img src="https://media.giphy.com/media/Lopx9eUi34rbq/giphy.gif" width="400px"/>
 </div>
 
+<br>
+
+<p align="center">Hi there, and welcome 😎</p>
+
+<br>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/hugo-charles-b79123243/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -19,7 +25,6 @@
 <br>
 <br>
 
-<p align="center">Hi there, and welcome 😎</p>
 
 <!--
 **HugoCharles997/HugoCharles997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
