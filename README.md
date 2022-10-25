@@ -2,12 +2,7 @@
   <img src="https://media.giphy.com/media/Lopx9eUi34rbq/giphy.gif" width="400px"/>
 </div>
 
-
-<br>
-<br>
-<br>
-
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/hugo-charles-b79123243/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -15,6 +10,11 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+<br>
+<br>
+<br>
+
 
 <p align="center">Hi there, and welcome 😎</p>
 
