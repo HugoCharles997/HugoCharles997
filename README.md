@@ -1,4 +1,4 @@
-<div width="400">
+<div font-size="400">
 <p align="center">Hi there, and welcome 😎</p>
 </div>
 
