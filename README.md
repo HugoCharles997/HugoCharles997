@@ -1,9 +1,9 @@
-<div font-size="400" width="300">
-<h1 align="center" font-size="400" width="300">Hi there, and welcome 😎</h1>
+<div>
+<h1 align="center">Hi there, and welcome 😎</h1>
 </div>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Lopx9eUi34rbq/giphy.gif" width="400px"/>
+  <img src="https://media.giphy.com/media/Lopx9eUi34rbq/giphy.gif" width="600px" height="400px"/>
 </div>
 
 <br>
