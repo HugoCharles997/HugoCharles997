@@ -1,5 +1,5 @@
 <div>
-<h1 align="center">Hey folks</h1>
+<h1 align="center">Hey folks </h1>
 </div>
 
 <br>
@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/Lopx9eUi34rbq/giphy.gif" width="400px"/>
 </div>
 <div align="center">
-  <h3>I'm a Web developer, currently in apprenticeship.</h3>
+  <h3>Spring/Angular developer, currently in apprenticeship at Visiativ.</h3>
   <br>
   <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="600" height="300"/>
 </div>
