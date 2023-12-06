@@ -1,5 +1,5 @@
 <div>
-<h1 align="center">Hey folks </h1>
+<h1 align="center">hey folks </h1>
 </div>
 
 <br>
@@ -8,7 +8,10 @@
   <img src="https://media.giphy.com/media/Lopx9eUi34rbq/giphy.gif" width="400px"/>
 </div>
 <div align="center">
+  <h3>here's me, a random</h3>
+  <br>
   <h3>fullstack developer</h3>
+  
   <br>
   <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="600" height="300"/>
 </div>
